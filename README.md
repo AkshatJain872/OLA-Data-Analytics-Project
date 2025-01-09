@@ -117,7 +117,7 @@ You can access the complete project files, including the SQL queries and Power B
 ### **How to Run the Project**
 1. Clone the repository:
    ```bash
-   git clone [Your Repository Link Here]
+   https://github.com/AkshatJain872/OLA-Data-Analytics-Project.git
    ```
 2. Import the data into your SQL database.
 3. Run the SQL queries provided to process the data.
@@ -125,5 +125,4 @@ You can access the complete project files, including the SQL queries and Power B
 
 ---
 
-Feel free to reach out for any queries or feedback!
 
